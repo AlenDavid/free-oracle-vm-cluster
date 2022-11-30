@@ -1,4 +1,4 @@
-# Use OracleVM for free K8s Cluster
+# OracleVM always free Virtual Machine
 
 Create an account in https://cloud.oracle.com/.
 
