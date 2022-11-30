@@ -4,6 +4,7 @@ Create an account in https://cloud.oracle.com/.
 
 Go to https://cloud.oracle.com/compute/instances/create and create a VM with shape Ampere. You can set up to 4 OCPUs and 24 GBs of ram in their always free plan.
 
+> **Warning**
 > Don't forget to save the SSH private key to have SSH access later on.
 
 ---
