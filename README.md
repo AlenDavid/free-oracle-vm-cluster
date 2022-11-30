@@ -1,4 +1,4 @@
-# OracleVM always free Virtual Machine
+# Steps to create your always free Virtual Machine in Oracle Cloud
 
 Create an account in https://cloud.oracle.com/.
 
