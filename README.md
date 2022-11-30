@@ -28,7 +28,7 @@ k3sup install \
 
 ```
 
-curl <vm-public-ip>:6443 to check if k3s is up and accessible.
+curl vm-public-ip:6443 to check if k3s is up and accessible.
 
 (Run this if 6443 is not accessible, you will need to access the VM's shell).
 
